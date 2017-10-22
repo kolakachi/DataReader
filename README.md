@@ -1,5 +1,6 @@
 # DataReader
-A python script that reads data from a CSV file 
+A python script that reads data from a CSV file.
+
 This script loops through each row and column in the format:
 
 [Row1, Col1]
